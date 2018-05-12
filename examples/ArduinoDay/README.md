@@ -11,7 +11,7 @@ Hardware
 
 ### Upload the sketch
 
-Upload the [sketch](https://github.com/ThinkAcademy-BR/BluetoothSerial/blob/master/examples/ArduinoDay/Arduino/Pasta/Arquivo.ino) to your Uno using the Arduino IDE.
+Upload the [sketch](https://github.com/ThinkAcademy-BR/BluetoothSerial/blob/master/examples/ArduinoDay/Arduino/ReleBluetooth/ReleBluetooth.ino) to your Uno using the Arduino IDE.
 
 ## Android
 
