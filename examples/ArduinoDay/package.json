@@ -1,7 +1,7 @@
 {
-  "name": "com.megster.bluetooth.led",
+  "name": "net.thinkam.bluetooth.inovaprudente",
   "version": "0.0.3",
-  "displayName": "LED",
+  "displayName": "Inova Prudente - Arduino Day",
   "cordova": {
     "platforms": [
       "android"
