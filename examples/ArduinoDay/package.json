@@ -1,0 +1,13 @@
+{
+  "name": "com.megster.bluetooth.led",
+  "version": "0.0.3",
+  "displayName": "LED",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.0.0"
+  }
+}
